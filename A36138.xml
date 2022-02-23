@@ -1,0 +1,228 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Disloyal forty &amp; forty one and the loyal eighty presented to publick view in a prospect &amp; scheme, shewing the difference of the years forty and forty one from the year eighty : drawn up and published to answer the clamours of the malicious and to inform the ignorant.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36138</idno>
+            <idno type="STC">Wing D1670</idno>
+            <idno type="STC">ESTC R17682</idno>
+            <idno type="EEBO-CITATION">12656682</idno>
+            <idno type="OCLC">ocm 12656682</idno>
+            <idno type="VID">65390</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65390)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 350:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Disloyal forty &amp; forty one and the loyal eighty presented to publick view in a prospect &amp; scheme, shewing the difference of the years forty and forty one from the year eighty : drawn up and published to answer the clamours of the malicious and to inform the ignorant.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Page 4 has faded print in the filmed copy. Pages 2-4 photographed from Bodleian Library copy and inserted at the end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religion and politics --  Great Britain.</term>
+               <term>Great Britain --  History --  Stuarts, 1603-1714.</term>
+               <term>Great Britain --  Politics and government.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:65390:1"/>
+            <pb n="1" facs="tcp:65390:1" rendition="simple:additions"/>
+            <head>THE <hi>Diſloyal Forty &amp; Forty One,</hi> AND The Loyal Eighty, Preſented to Publick View In a PROSPECT &amp; SCHEME; Shewing The Difference of the years <hi>Forty,</hi> and <hi>Forty one,</hi> from the year <hi>Eighty.</hi>
+            </head>
+            <head type="sub">Drawn up, and Publiſhed to Anſwer the Cla<g ref="char:EOLhyphen"/>mours of the Malicious, and to Inform the Ignorant.</head>
+            <p>IT hath been all the Clamour of late, <hi>Forty one, Forty one,</hi> is now com<g ref="char:EOLhyphen"/>ing to be acted over again, we are running in the very ſame Steps, in the ſame Path, and Road, to undo the Nation, and to ruine Kingly Government, as our Predeceſſors did in <hi>Forty,</hi> and <hi>Forty one.</hi> We run the ſame Courſes, we take the ſame Meaſures, <hi>latet Anguis in Herbâ;</hi> beware of the Presbyterian Serpent, who lurks in the Affairs of <hi>Eighty,</hi> being of the very ſame Complexion, Form and Shape, as that of <hi>Forty</hi> and <hi>Forty one.</hi> Theſe are the daily and weekly Cries of ſeveral Pam<g ref="char:EOLhyphen"/>phleteers, to amuſe the Loyal Subjects of His Majeſty, who dread and abhor the Evil and Fatal Conſequences of Tranſactions begun abòut thoſe times, or not long before; and no doubt but that they are alſo whiſper'd into the ears of His Sacred Majeſty, with no little advantage, of raiſing Fears and Jealouſies in his Royal Breaſt. And truly no man can blame His Majeſty, for being fearful of ſuch an Evil, under which his Royal Father loſt his Life, and by which himſelf for ſo long a time, was debarred of his Crown, and ſo ſeverely ſuffered. But who are theſe who thus continu<g ref="char:EOLhyphen"/>ally alarm the Breaſt of their Prince, and daily endeavour to conjure up many ſad and troubleſome Thoughts, many jealous and diſtruſtful Cogi<g ref="char:EOLhyphen"/>tations,
+<pb n="2" facs="tcp:65390:2"/>and ſeveral ſuſpitions, doubts and ſcruples, concerning the Faith, Loyalty, and Allegiance of His Majeſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies Subjects? I will ſuppoſe them (as well as thoſe who trumpet the ſame into the ears of the People, to beget in them alſo the ſame paſſions) to be two ſorts of men: Either they are ſuch as are really Papiſts, and by this way, deſigningly do en<g ref="char:EOLhyphen"/>deavour the Ruine both of the King and his People, and the Subverſion of the Proteſtant Religion, and the bringing in and ſetting up the Popiſh Religion; or elſe they are ſuch who really lying under miſtakes, do ſpeak according to their Conſciences, being true Proteſtants. Lovers of their King, and there eſtabliſh'd Religion, and thorow the proſpect of what has paſt by reaſon of the evil and deteſtable Contrivances of ſome wicked and Rebellious men, have ſuch an Averſion to all Diſſenters, that they have not only contracted an hatred againſt them, but they are grown highly jealous of all things that come from them, and thorow this very ab<g ref="char:EOLhyphen"/>horrency of the former evil Conſequences, are almoſt ready, not only to disbelieve the Plots of the <hi>Jeſuits,</hi> and the <hi>Papiſts,</hi> by to think them to be cunning Contrivances of the old <hi>Presbyterians,</hi> to bring again both the King and the Nation into new Snares and Troubles, according to the old Preſident of <hi>Forty</hi> and <hi>Forty One.</hi> As the former may be ſaid to endea<g ref="char:EOLhyphen"/>vour our Ruine out of Malice and Deſign, ſo theſe may be ſaid to do it out of blind Zeal. It were happy for the Nation, if the great heats and ſouls of Scribling Pamphleteers were laid aſide, and that both parties would ſeriouſly weigh things in the Balance of Equity and Judgment; for whilſt paſſion and heat bears ſway on either ſide, we cannot judge rightly of things; for our fears and jealouſies on both ſides encreaſe upon every Occaſion, and Suſpition is apt to pervert the moſt innocent intenti<g ref="char:EOLhyphen"/>ons: So that whilſt theſe troubleſome paſſions, ſtand as a vail between King and People, the one dares not truſt or confide in the other, and both are apt to looſe that mutual Obligation or Knot of Unity (that makes happy a Kingdom and) which ought to be inſeparably between them.</p>
+            <p>I ſhall not go about to make known the many Preſſures and Griev<g ref="char:EOLhyphen"/>ances, the people of <hi>England</hi> have ſuffered in theſe late years, nor the ſeveral miſcarriages of the Councellors and Inſtruments belonging to the State, which have in great meaſure been publickly atteſted and noted by the late <hi>Parliament,</hi> in their Votes and Addreſſes to His Majeſty. Nor will this ſheet give way to ſhew the very many Cauſes of juſt Com<g ref="char:EOLhyphen"/>plaint, the people may have for all thoſe fears and jealouſies, they ſeem to lie under, and with which they are upbraided, as if they had no real Cauſe, but were afraid of their own ſhadows; but certainly if we believe that there hath been a deteſtable Plot, to take away the Life of His Ma<g ref="char:EOLhyphen"/>jeſty, and to ſubvert the Proteſtant Religion, and to bring in Popery, the mention of that horrid Conſpiracy, for which ſo many have ſuffered, might be enough to juſtifie the fears of the People of <hi>England,</hi> who dread nothing more, than the Change of their Religion, on which both their Lives and Property depend.</p>
+            <p>I beſeech you conſider how raſhly theſe men judge the face of Affairs, after the fancied Image of <hi>Forty One:</hi> and cry out with ſo much heat on
+<pb n="3" facs="tcp:65390:2"/>all that offer to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> or appear in the behalf of the People, or ſtand up for their Properties and Priviledges, or that complain of Grievances and miſcarriages. What Age can you note, that evil and corrupt Members got not into the ſway of the State? What times ſo pure, that have be<g ref="char:EOLhyphen"/>got no Grievances and Miſcarriages? What Prince read you of ſo God<g ref="char:EOLhyphen"/>like, as not ſometimes to give the Reins to his Paſſions; even <hi>David</hi> a man after God's own heart, and <hi>Solomon</hi> the wiſeſt of Princes, by many foul ſlips ſhewed that frailty is not altogether eloinged from Royalty. If then in <hi>Forty One</hi> Grievances were complained againſt, Miſcarriages noted, evil Councellors impeached, Petitions promoted; and if now the ſame cauſes hapning, the people run ſo far the ſame King's High-way for Redreſs, muſt therefore the fatal Conſequences of <hi>Forty One</hi> be needs the Effect of Prayers and Petitions, of humble Supplications, and of regular and juſtificable Means by <hi>Parliament?</hi> and muſt therefore all that appear with Petitions and Complain againſt Popery, and ſuch as would endea<g ref="char:EOLhyphen"/>vour to bring in Arbitrary Government, be branded for Deſigners, Facti<g ref="char:EOLhyphen"/>ous, Seditious, and Rebellious, as thoſe of <hi>Forty one?</hi>
+            </p>
+            <p>But alas! 'twas not <hi>Forty One</hi> which ruined the Kingdom, and pull'd down Monarchy, 'twas the after ſpawn, that got life through War and Blood; for moſt of thoſe perſons, that at firſt were active againſt evil Councillours, and for the Redreſs of the peoples Grievances, when they ſaw things carried to extremity, and beyond the Intention of their Loyalty, either left them of themſelves, or were ſecluded by thoſe Traitors, that run to the Achme of Treaſon, not to be named; and which all true <hi>Engliſh-men</hi> hope may never be acted on the <hi>Engliſh</hi> Stage, to contract Guilt and <hi>Odium</hi> on the Nation.</p>
+            <p>I dare ſay, amongſt thoſe now branded by theſe ſort of men for facti<g ref="char:EOLhyphen"/>ous, and runners of the Race of <hi>Forty One,</hi> to obtain the Goal of Re<g ref="char:EOLhyphen"/>bellion, there are many thouſands who really, and from their hearts love the King, and would venture their Lives and Fortunes in his Service: And indeed, what proſpect of ſafety can the Nation have, after the Life of his Majeſty? whom God long preſerve.</p>
+            <p>But that we may the better compair this Bugbear <hi>Forty,</hi> and <hi>Forty One,</hi> with our <hi>Eighty,</hi> I have drawn a brief Scheme, of the ſimilitude and diſparity of either, in the matters of Affairs, then and now; and ſo let the World judge, and all ſober men judge, how like they are one to another, that all this mighty Cry is made.</p>
+            <pb n="4" facs="tcp:65390:3" rendition="simple:additions"/>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Forty, Forty One.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Eighty, Similitude.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>The Diſparity.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Popery complain'd a<g ref="char:EOLhyphen"/>gainſt, no Plot appearing.</cell>
+                     <cell>Popery feared, and com<g ref="char:EOLhyphen"/>plain'd againſt.</cell>
+                     <cell>The Growth of Popery being notorious, and a moſt horrid Popiſh Plot appearing.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Scots</hi> raiſe an Army and invade <hi>England:</hi> are diſ<g ref="char:EOLhyphen"/>ſolved by a Treaty at <hi>Rip<g ref="char:EOLhyphen"/>pon,</hi> owned by the <hi>Engliſh,</hi> and called Brethren.</cell>
+                     <cell>A few Rebel <hi>Scots</hi> up in Arms.</cell>
+                     <cell>Defeated, routed, and ſome hanged as Rebels, and diſowned by the <hi>Engliſh.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>A <hi>Parliament</hi> called, and a Bill granted for its continu<g ref="char:EOLhyphen"/>ance.</cell>
+                     <cell>A Parliament called.</cell>
+                     <cell>Soon diſſolved.</cell>
+                  </row>
+                  <row>
+                     <cell>Earl of <hi>Strafford</hi> impeach<g ref="char:EOLhyphen"/>ed by the <hi>Parliament,</hi> and condemned by the Bill of Attainder, for ſervices done his King, and ſuffered on <hi>Tower-Hill,</hi> being a Proteſt<g ref="char:EOLhyphen"/>ant.</cell>
+                     <cell>A Lord <hi>Stafford</hi> impeach<g ref="char:EOLhyphen"/>ed by the <hi>Parliament,</hi> and ſuffer'd on <hi>Tower-Hill.</hi>
+                     </cell>
+                     <cell>Had a fair Tryal by his Peers, and condemned juſt<g ref="char:EOLhyphen"/>ly for an horrid Conſpira<g ref="char:EOLhyphen"/>cy, againſt his King's Life, being a Papiſt.</cell>
+                  </row>
+                  <row>
+                     <cell>The City preſent a Peti<g ref="char:EOLhyphen"/>tion againſt Church Cere<g ref="char:EOLhyphen"/>monies, and the Govern<g ref="char:EOLhyphen"/>ment by Biſhops.</cell>
+                     <cell>The City Petition.</cell>
+                     <cell>For the ſafety of the Church of <hi>England</hi> from Po<g ref="char:EOLhyphen"/>pery, and for the ſitting of Parliament.</cell>
+                  </row>
+                  <row>
+                     <cell>Objections againſt the Bi<g ref="char:EOLhyphen"/>ſhops ſitting in Parliament.</cell>
+                     <cell>Objections againſt the Bi<g ref="char:EOLhyphen"/>ſhops voting in Parliament.</cell>
+                     <cell>Only in caſes of Life and Death.</cell>
+                  </row>
+                  <row>
+                     <cell>Petitions for the Redreſs of Grievances, with the In<g ref="char:EOLhyphen"/>ſurrection of the Apprentices and Tumults.</cell>
+                     <cell>Petitions for Redreſs of Grievances.</cell>
+                     <cell>By a few peaceably, and humbly preſented.</cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Iriſh</hi> bloody Maſſacre and Rebellion projected and effected.</cell>
+                     <cell>An <hi>Iriſh</hi> bloody Maſſacre and Rebellion projected.</cell>
+                     <cell>Diſcovered and Prevent<g ref="char:EOLhyphen"/>ed.</cell>
+                  </row>
+                  <row>
+                     <cell>Several Tumults and In<g ref="char:EOLhyphen"/>ſolences offered to the Lords, for ſlighting the Bill againſt the Biſhops.</cell>
+                     <cell> </cell>
+                     <cell>No Tumults upon the Lords ſlighting the Bill a<g ref="char:EOLhyphen"/>gainſt a Popiſh Succeſſor.</cell>
+                  </row>
+                  <row>
+                     <cell>Endeavours for the abo<g ref="char:EOLhyphen"/>liſhing Epiſcopacy.</cell>
+                     <cell> </cell>
+                     <cell>Endeavours to eſtabliſh Epiſcopacy, and to ſecure it againſt Popery.</cell>
+                  </row>
+                  <row>
+                     <cell>The King forced by Tu<g ref="char:EOLhyphen"/>mults and Inſolences to leave the City—</cell>
+                     <cell> </cell>
+                     <cell>The King deſired and en<g ref="char:EOLhyphen"/>treated to ſtay, and not to go to <hi>Oxford.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>An Earl of <hi>Monmouth</hi> im<g ref="char:EOLhyphen"/>peached by the Commons.</cell>
+                     <cell>A Duke of <hi>Monmouth.</hi>
+                     </cell>
+                     <cell>Beloved by the Com<g ref="char:EOLhyphen"/>mons.</cell>
+                  </row>
+                  <row>
+                     <cell>Fears and Jealouſies fo<g ref="char:EOLhyphen"/>mented by the Jeſuits and Papiſts.</cell>
+                     <cell>Fears and Jealouſies fo<g ref="char:EOLhyphen"/>mented by the Papiſts and Jeſuits.</cell>
+                     <cell>Fomented alſo by the La<g ref="char:EOLhyphen"/>titudinarian Maſqueraders.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>By theſe few heads, as they occurred to memory, you may ſee how like and unlike the Portraitures of the Monſter <hi>Forty one,</hi> and the Loyal <hi>Eighty,</hi> are one to the other, and it may be concluded, becauſe men then eat, drunk, ſlept, and talk'd, and becauſe they now alſo do the ſame, that theſe are the very ſame men, and are taking the ſame Courſes they did in <hi>Forty One;</hi> as theſe men endeavour to make the World believe, the <hi>Presby<g ref="char:EOLhyphen"/>terians</hi> are new minting their old Coin of 41. But we truſt, that the Mercy of God, the Wiſdom of his Majeſty, and the Loyalty of the People, will be ſecurity enough againſt thoſe dreadful Conſequences, ſo much threatned to ſcare both King and People, as if they had a deſire to ſet them together by the Ears; Which God in Heaven avert, and let all good People ſay <hi>AMEN.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, <hi>Printed for</hi> T. B. 1680.</p>
+            <pb facs="tcp:65390:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
